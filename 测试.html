@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>给玉铃的“爱的频率”</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Noto+Sans+SC:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- 密码层 -->
+    <div id="passwordOverlay" class="overlay active">
+        <div class="password-box">
+            <h2><i class="fas fa-lock"></i> 私人频率</h2>
+            <p>请输入专属通行证</p>
+            <input type="password" id="passwordInput" placeholder="输入密码...">
+            <button id="submitPassword"><i class="fas fa-paper-plane"></i> 进入星空</button>
+            <p class="hint">提示：密码是我的名字和纪念日</p>
+        </div>
+    </div>
+
+    <!-- 主星空容器 -->
+    <div id="starfield"></div>
+
+    <!-- 音乐播放器 -->
+    <div id="player" class="hidden">
+        <div class="player-header">
+            <span id="nowPlaying">《才二十三》 - 欢迎序曲</span>
+            <button id="closePlayer"><i class="fas fa-times"></i></button>
+        </div>
+        <div class="player-body">
+            <!-- 播放器iframe将由JS动态注入 -->
+            <div id="playerWidget"></div>
+            <div class="lyrics-section">
+                <h4><i class="fas fa-quote-left"></i> 此刻的歌词</h4>
+                <p id="currentLyrics">未来还有什么疑问？才二十三</p>
+            </div>
+            <div class="note-section">
+                <h4><i class="fas fa-edit"></i> 你的笔记 (仅保存在此电脑)</h4>
+                <textarea id="userNote" placeholder="写下为什么喜欢这句，或此刻的心情..."></textarea>
+                <button id="saveNote"><i class="fas fa-save"></i> 保存笔记</button>
+                <p id="noteStatus"></p>
+            </div>
+        </div>
+    </div>
+
+    <!-- 解锁提示 -->
+    <div id="unlockToast" class="hidden">
+        <i class="fas fa-star"></i> <span id="unlockMessage">新歌曲已解锁！</span>
+        <span class="close-toast">&times;</span>
+    </div>
+
+    <!-- 信封图标 -->
+    <button id="envelopeBtn" class="hidden" title="有一封信">
+        <i class="fas fa-envelope"></i>
+    </button>
+
+    <!-- 信件模态框 -->
+    <div id="letterModal" class="modal hidden">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <div class="letter-paper">
+                <h2>给玉铃</h2>
+                <div id="letterContent">
+                    <!-- 信的内容由JS动态填充 -->
+                </div>
+                <p class="signature">庞佳君</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- 底部控制栏 -->
+    <div class="controls">
+        <button id="toggleMusic"><i class="fas fa-music"></i> <span>暂停背景音</span></button>
+        <button id="toggleStars"><i class="fas fa-star"></i> <span>隐藏星星</span></button>
+        <button id="resetBtn"><i class="fas fa-redo"></i> <span>重置进度</span></button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
