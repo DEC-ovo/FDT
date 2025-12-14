@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "Love Song",
             artist: "方大同",
             lyrics: "我写了这首歌，是一首简单，不复杂也不难唱的那一种歌。",
-            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/Love Song.mp3" type="audio/mpeg">您的浏览器不支持音频播放</audio>',
+            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/Love Song.mp3" type="audio/mpeg">您的浏览器不支持音频播放</think_never_used_51bce0c785ca2f68081bfa7d91973934>',
             reason: "一切的开始。我记得你哼过这首歌。简单，不复杂，却如此正确。",
             unlocked: true,
             position: { x: 30, y: 40 }
@@ -109,7 +109,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "特别的人",
             artist: "方大同",
             lyrics: "爱一个人或许要慷慨，若只想要被爱，最后没有了对白。",
-            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/特别的人.mp3" type="audio/mpeg">您的浏览器不支持音频播放</audio>',
+            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/特别的人.mp3" type="audio/mpeg">您的浏览器不支持音频播放</think_never_used_51bce0c785ca2f68081bfa7d91973934>',
             reason: "我们一生中，错过、相遇，成为某个特别的人。而你是我的这个算式里，最珍贵的解。",
             unlocked: true,
             position: { x: 70, y: 60 }
@@ -119,8 +119,8 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "麦恩莉",
             artist: "方大同",
             lyrics: "我终于遇到了你，我麦恩莉，多么甜蜜，我属于你。",
-            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/麦恩莉.mp3" type="audio/mpeg">您的浏览器不支持音频播放</audio>',
-            reason: "听过《特别的人》，再来听听这首'幸运版'的故事。'我终于遇到了你，我麦恩莉'，这是方大同写下的，最直白的幸运。",
+            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/麦恩莉.mp3" type="audio/mpeg">您的浏览器不支持音频播放</think_never_used_51bce0c785ca2f68081bfa7d91973934>',
+            reason: "听完《特别的人》，再来听听这首'幸运版'的故事。'我终于遇到了你，我麦恩莉'，这是方大同写下的，最直白的幸运。",
             unlocked: false,
             position: { x: 20, y: 70 }
         },
@@ -129,7 +129,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "因为你",
             artist: "方大同",
             lyrics: "因为你，我多么幸运，多么幸运，多么幸运，因为你。",
-            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/因为你(Live).mp3" type="audio/mpeg">您的浏览器不支持音频播放</audio>',
+            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/因为你(Live).mp3" type="audio/mpeg">您的浏览器不支持音频播放</think_never_used_51bce0c785ca2f68081bfa7d91973934>',
             reason: "从'幸运'到'原因'。爱常常没有理由，但大同在这首歌里，把'因为你'这个理由，唱成了最甜美的因果律。",
             unlocked: false,
             position: { x: 80, y: 30 }
@@ -139,7 +139,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "为你写的歌",
             artist: "方大同",
             lyrics: "我们的故事未完待续，让我为你写一首歌，纪念这美丽的爱情。",
-            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/为你写的歌.mp3" type="audio/mpeg">您的浏览器不支持音频播放</audio>',
+            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/为你写的歌.mp3" type="audio/mpeg">您的浏览器不支持音频播放</think_never_used_51bce0c785ca2f68081bfa7d91973934>',
             reason: "看歌名就知道，它应该出现在这里。这不是情书，却比情书更温柔。'我们的故事未完待续'，像极了我们。",
             unlocked: false,
             position: { x: 40, y: 20 }
@@ -149,7 +149,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "三人游",
             artist: "方大同",
             lyrics: "有些话你选择不对他说，你说某种脆弱，我才感同身受。",
-            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/三人游.mp3" type="audio/mpeg">您的浏览器不支持音频播放</audio>',
+            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/三人游.mp3" type="audio/mpeg">您的浏览器不支持音频播放</think_never_used_51bce0c785ca2f68081bfa7d91973934>',
             reason: "爱不只是甜蜜，也有犹豫和退让。这首经典的'备胎之歌'，藏着一种安静的慷慨。或许，我们都曾如此。",
             unlocked: false,
             position: { x: 60, y: 80 }
@@ -169,7 +169,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "爱爱爱",
             artist: "方大同",
             lyrics: "爱爱爱，爱爱爱，爱爱爱爱爱爱爱，到底什么是爱？",
-            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/爱爱爱.mp3" type="audio/mpeg">您的浏览器不支持音频播放</audio>',
+            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/爱爱爱.mp3" type="audio/mpeg">您的浏览器不支持音频播放</think_never_used_51bce0c785ca2f68081bfa7d91973934>',
             reason: "从具体回到抽象。究竟什么是爱？这首歌里有繁华世界的千万种答案，而我的答案，与你有关。",
             unlocked: false,
             position: { x: 75, y: 45 }
@@ -179,7 +179,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "关于爱的定义",
             artist: "方大同",
             lyrics: "关于爱的定义，关于你的意义，关于我们之间的默契。",
-            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/关于爱的定义.mp3" type="audio/mpeg">您的浏览器不支持音频播放</audio>',
+            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/关于爱的定义.mp3" type="audio/mpeg">您的浏览器不支持音频播放</think_never_used_51bce0c785ca2f68081bfa7d91973934>',
             reason: "承接上一首的思考。如果非要给爱一个定义，那么'和你在一起'就是我最满意的词典解释。",
             unlocked: false,
             position: { x: 50, y: 65 }
@@ -189,7 +189,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "春风吹",
             artist: "方大同",
             lyrics: "春风吹，春风吹，吹红了桃花，吹绿了柳树。",
-            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/春风吹.mp3" type="audio/mpeg">您的浏览器不支持音频播放</audio>',
+            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/春风吹.mp3" type="audio/mpeg">您的浏览器不支持音频播放</think_never_used_51bce0c785ca2f68081bfa7d91973934>',
             reason: "吹走所有沉重。这是方大同音乐里最清新的一阵风，带着复古的律动。希望它也能吹过你，带来好心情。",
             unlocked: false,
             position: { x: 35, y: 75 }
@@ -199,7 +199,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "天气先生",
             artist: "方大同",
             lyrics: "你的心情，是我的天气预报，晴天雨天，我都知道。",
-            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/天气先生.mp3" type="audio/mpeg">您的浏览器不支持音频播放</audio>',
+            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/天气先生.mp3" type="audio/mpeg">您的浏览器不支持音频播放</think_never_used_51bce0c785ca2f68081bfa7d91973934>',
             reason: "你的心情，是我的天气预报。这首歌像一份俏皮的关心，提醒我，要永远做那个为你预报晴天的'先生'。",
             unlocked: false,
             position: { x: 65, y: 25 }
@@ -209,7 +209,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "红豆",
             artist: "方大同",
             lyrics: "还没好好地感受，醒着亲吻的温柔，可能从此以后，学会珍惜天长和地久。",
-            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/红豆.mp3" type="audio/mpeg">您的浏览器不支持音频播放</audio>',
+            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/红豆.mp3" type="audio/mpeg">您的浏览器不支持音频播放</think_never_used_51bce0c785ca2f68081bfa7d91973934>',
             reason: "压轴曲。他把别人的经典，唱成了自己的告白。'还没好好地感受，醒着亲吻的温柔'——有些遗憾的美，让我们更珍惜此刻。",
             unlocked: false,
             position: { x: 45, y: 55 }
@@ -219,7 +219,7 @@ document.addEventListener('DOMContentLoaded', function() {
             title: "才二十三",
             artist: "方大同",
             lyrics: "未来还有什么疑问？才二十三，人生的乐章，才刚刚开始。",
-            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/才二十三.mp3" type="audio/mpeg">您的浏览器不支持音频播放</audio>',
+            embedCode: '<audio controls style="width: 100%; height: 86px;"><source src="music/才二十三.mp3" type="audio/mpeg">您的浏览器不支持音频播放</think_never_used_51bce0c785ca2f68081bfa7d91973934>',
             reason: "最后一颗星。'未来还有什么疑问？'，二十三岁有无限可能，而你的未来，无论乐章如何谱写，我永远是你的头号听众。",
             unlocked: false,
             position: { x: 50, y: 50 }
@@ -401,14 +401,14 @@ document.addEventListener('DOMContentLoaded', function() {
         <p>于是，我建造了这个小空间。</p>
         <p>这里面的每一首歌，都是我精心挑选的，想要与你分享的"方大同宇宙"。从你熟悉的《Love Song》开始，到你可能还没发现的《才二十三》，每一首，都像是一段我想对你说，却又借大同之口说出的旁白。</p>
         <p>《特别的人》里唱着我们相遇的珍贵，《因为你》则解释了这份珍贵的来由。《三人游》的苦涩和《春风吹》的清爽，都是爱情真实的模样。而《红豆》的缠绵，是我说不出口的牵挂。</p>
-        <p>希望这个网站，能在我不在你身边的时候，代替我做这些小事：</p>
+        <p>希望这个网站，能在我不在你边时，代替我做这些小事：</p>
         <p>当你需要背景音时，这里有风吹过的旋律；</p>
         <p>当你想被歌词触动时，这里有整片星空可以探索；</p>
         <p>当你只是无聊时，这里有一个关于"爱"的谜题等你慢慢解开。</p>
         <p>这个网站只属于你。你的笔记，你的点亮记录，都会安静地躺在你的浏览器里，就像你心里的感受，只属于你自己。</p>
         <p>最后，用大同的歌词收尾吧，这也是我想说的：</p>
         <p><strong>"我写了这首歌，是一首简单，不复杂也不难唱的那一种歌。"</strong></p>
-        <p>我对你的心意，也是如此。简单，不复杂，希望不难接受。</p>
+        <p>我对你的心意，是如此。简单，不复杂，希望不难接受。</p>
         <p>希望你喜欢这份礼物。</p>
     `;
     
